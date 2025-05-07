@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/json-iterator/go"
+	"github.com/a1eks3y/jsoniter"
 	"github.com/stretchr/testify/require"
 	"strings"
 	"time"
